@@ -12,6 +12,7 @@ Giovanni Menegozzo, Diego Dall'Alba, Paolo Fiorini,  2022
 
 [![arXiv](https://img.shields.io/badge/arxiv-2207.00449-red)]()
 
+This repository contains data extracted from *continuous manufacturing productions*. The datasets are used for causal discovery as well for predictive monitoring and fault detection. For any questions regarding the collection and use of the data do not hesitate to contact the authors. Do not forget to cite our work.
 
 ## Citation
 ```bibtex
