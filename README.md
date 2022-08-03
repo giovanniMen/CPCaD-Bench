@@ -14,7 +14,13 @@ Giovanni Menegozzo, Diego Dall'Alba, Paolo Fiorini,  2022
 
 This repository contains data extracted from **continuous manufacturing productions**. The datasets are used for causal discovery as well for predictive monitoring and fault detection. For any questions regarding the collection and use of the data do not hesitate to contact the authors. Do not forget to cite our work.
 
+
+
+
 ## Citation
+Join **CASE 2022** for attending to my presentation on 23 August 2022
+http://www.case2022.org/
+Meanwhile you can cite
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2208.01529,
   doi = {10.48550/ARXIV.2208.01529},
