@@ -10,7 +10,7 @@ Giovanni Menegozzo, Diego Dall'Alba, Paolo Fiorini,  2022
 
 <p float="center"> <img src="Images/cpcadGif.gif" width="90%" /> </p>
 
-[![arXiv](https://img.shields.io/badge/arxiv-2207.00449-red)](https://arxiv.org/abs/2208.01529)
+[![arXiv](https://img.shields.io/badge/arxiv-2207.00449-red)](https://ieeexplore.ieee.org/document/9926420)
 
 This repository contains data extracted from **continuous manufacturing productions**. The datasets are used for causal discovery as well for predictive monitoring and fault detection. For any questions regarding the collection and use of the data do not hesitate to contact the authors. Do not forget to cite our work.
 
@@ -18,18 +18,23 @@ This repository contains data extracted from **continuous manufacturing producti
 
 
 ## Citation
-Join **CASE 2022** for attending to my presentation on 23 August 2022
-http://www.case2022.org/
-Meanwhile you can cite
+
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2208.01529,
-  doi = {10.48550/ARXIV.2208.01529},
-  url = {https://arxiv.org/abs/2208.01529},
-  author = {Menegozzo, Giovanni and Dall'Alba, Diego and Fiorini, Paolo},
-  keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking Causal Discovery methods},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
-}
+@INPROCEEDINGS{9926420,
+
+  author={Menegozzo, Giovanni and Dall’Alba, Diego and Fiorini, Paolo},
+
+  booktitle={2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)}, 
+
+  title={CIPCaD-Bench: Continuous Industrial Process datasets for benchmarking Causal Discovery methods}, 
+
+  year={2022},
+
+  volume={},
+
+  number={},
+
+  pages={2124-2131},
+
+  doi={10.1109/CASE49997.2022.9926420}}
 ```
